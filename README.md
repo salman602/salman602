@@ -1,7 +1,7 @@
 ![Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQHFpmUESZNnvg/profile-displaybackgroundimage-shrink_350_1400/0/1638343933457?e=1643846400&v=beta&t=dZEjWhB-d_HWKbbl70tyngsVCImkZ14dxCcXr1eVEZ4)
 
-### Hello 👋, I am Salman Rahman.
-#### Web developer
+## Hello 👋, I am Salman Rahman.
+### Web developer
 
 
 I am a junior web developer. A programming lover with a strong desire to learn and solve problems. My core skills are based on JavaScript and I have developed some web applications using MERN technologies and looking forward to exploring more.
